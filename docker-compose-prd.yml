@@ -10,6 +10,6 @@ services:
   playground-web-backend:
     image: danielracolta/playground-web-backend:latest
     environment:
-      MONGODB_URI: mongodb+srv://<user>:<password>@<your cluster>/todo?retryWrites=true&w=majority
+      MONGODB_URI: mongodb+srv://<243032>:<CGfNDTtZq726laO2>@<Cluster0>/todo?retryWrites=true&w=majority
     ports:
       - 8080:8080
